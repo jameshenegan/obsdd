@@ -1,0 +1,119 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Python #
+##########
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtualenv #
+##############
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+ENV.bak/
+
+# Jupyter Notebook #
+####################
+.ipynb_checkpoints
+
+# IDE #
+#######
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS #
+#######
+.DS_Store
+Thumbs.db
+
+# Text editor #
+###############
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+*.kate-swp
+
+# LaTeX #
+#########
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.pdfsync
+*.ps
+*.synctex.gz
+*.toc
+*blx.bib
+
+# SQLite #
+##########
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+
+# Images #
+##########
+*.png
+*.jpg
+*.gif
+*.jpeg
+
+# Archive #
+###########
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.bz2
+*.rar
+*.gz
+
+# Microsoft #
+#############
+*.csv
+*.doc
+*.docx
+*.dot
+*.dotx
+*.pot
+*.potx
+*.pps
+*.ppsx
+*.ppt
+*.pptx
+*.rtf
+*.xls
+*.xlsx
+*.xltx
+~$*
+
+# Node.js #
+###########
+node_modules/
+npm-debug.log
